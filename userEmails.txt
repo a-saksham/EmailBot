@@ -1,4 +1,3 @@
-saksham sakshama592@gmail.com
-rajni softygupta2908@gmail.com
-alex alex@yahoo.com
-yashvi yashvi9922@gmail.com
+name email@gmail.com
+saksham saksham@gmail.com
+alex alex@gmail.com
